@@ -1,4 +1,4 @@
-# analisis-data-dengan-python-dicoding✨
+# Analisis-Data-Dengan-Python-Dicoding✨
 
 ## Setup environment
 ```
